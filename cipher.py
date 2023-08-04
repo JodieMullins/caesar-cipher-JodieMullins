@@ -57,4 +57,4 @@ user_sentence = str(input('Input message to be ciphered: \n')).lower()
 # sentence (entered based on Python-established ASCII)  
 user_sentence = user_sentence.translate(cipher)
 
-print(user_sentence) #ciphered beyond quickly recognizable language
+print('The encrypted sentence is:', user_sentence)
