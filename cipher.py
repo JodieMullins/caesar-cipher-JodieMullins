@@ -1,6 +1,5 @@
 # Dictionary established to use for translate method, which is available to 
-# string types; also established to clearly define required alphabet replacement
-# shift of 5 letters; also because writing something with lists and strings was taking forever
+# string types; also established to clearly define required alphabet replacement shift of 5 letters
 
 # Will not overwrite special characters or numeric values, as requested
 
